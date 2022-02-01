@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "splink_cluster_studio"
-version = "0.1.0"
+version = "0.1.1"
 description = "Create an interactive webpage to visualise clusters"
 authors = ["Robin Linacre <robinlinacre@hotmail.com>"]
 
